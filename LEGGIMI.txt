@@ -1,5 +1,1 @@
-IMPORTANTE
-Apri direttamente index.html con Chrome.
-Questa versione è AUTOCONTENUTA: le immagini istituzionali sono incorporate nel file HTML, quindi devono essere visibili anche se apri solo index.html.
-Non contiene fotografie di persone; mantiene stemma, territorio, residenza e grafiche dei partiti.
-Per modificare i testi, apri index.html con Blocco Note o Visual Studio Code.
+Versione aggiornata del sito del Principato di Negro, con bandiera e sezione Difesa del Principato.
